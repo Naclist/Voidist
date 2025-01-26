@@ -1,0 +1,2 @@
+# Voidist
+For heat death
